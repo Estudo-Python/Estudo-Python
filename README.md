@@ -7,6 +7,6 @@ Link para o github [Estudos-Python](https://github.com/Estudo-Python/Estudo-Pyth
 )
 
 Tópicos a serem abordados:
-1. Git
+1. Pip
 2. Virtualenv
-3. Pip
+3. Git
