@@ -6,6 +6,8 @@ Nesse curso é ensinado como contribuir com projetos OpenSource
 Link para o github [Estudos-Python](https://github.com/Estudo-Python/Estudo-Python
 )
 
+[![Build Status](https://travis-ci.org/felipeno/Estudo-Python.svg?branch=main)](https://travis-ci.org/felipeno/Estudo-Python)
+
 Suportada versão 3 do Python.
 
 
