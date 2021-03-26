@@ -7,7 +7,7 @@ Link para o github [Estudos-Python](https://github.com/Estudo-Python/Estudo-Pyth
 )
 
 [![Build Status](https://travis-ci.org/felipeno/Estudo-Python.svg?branch=main)](https://travis-ci.org/felipeno/Estudo-Python)
-
+[![codecov](https://codecov.io/gh/felipeno/Estudo-Python/branch/main/graph/badge.svg?token=CFBXGU4L8W)](https://codecov.io/gh/felipeno/Estudo-Python)
 Suportada versão 3 do Python.
 
 
