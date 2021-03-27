@@ -4,7 +4,7 @@ from core.spam.db import Conexao
 from core.spam.modelos import Usuario
 
 
-@pytest.fixture
+@pytest.fixture(scope='module')
 def conexao():
     # SetUp
     conexao_obj = Conexao()
