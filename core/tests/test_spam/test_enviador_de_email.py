@@ -21,7 +21,7 @@ def test_remetente(remetente):
 
 
 @pytest.mark.parametrize('remetente', [' ', 'foobar.com.br'])
-def test_remetente(remetente):
+def test_email_remetente_invalido(remetente):
     enviador = Enviador()
     with pytest.raises(EmailInvalido):
         enviador.enviar(
